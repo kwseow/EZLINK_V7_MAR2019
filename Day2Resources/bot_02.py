@@ -4,9 +4,7 @@ from telepot.loop import MessageLoop
 from telepot.delegate import per_chat_id, create_open, pave_event_space
 from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 
-#TOKEN = '<YOUR TOKEN>'
-TOKEN = '726962401:AAHoiAXriizyEpBds9cJVW3eJHocb01o2ig'
-
+TOKEN = '<YOUR TOKEN>'
 
 # Define the information to return per command
 def get_help():
