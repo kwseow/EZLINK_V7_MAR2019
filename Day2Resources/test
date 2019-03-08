@@ -1,0 +1,5 @@
+
+
+for itemText in soup.find_all('div', attrs={'class':'class_name'}):
+    wrapper = class_name.div
+    wrapper_href = wrapper.a
