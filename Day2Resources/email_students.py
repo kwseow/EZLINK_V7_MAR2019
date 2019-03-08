@@ -1,6 +1,6 @@
 import smtplib, openpyxl
 sender_email_address ="kwseow@gmail.com"
-sender_email_password = "gthpnhnogupjgymp"
+sender_email_password = "<YOUR_APP_PASSWORD>"
 receiver_email_address = "kwseow@gmail.com"
 
 def sendEmail(name, emailId):
